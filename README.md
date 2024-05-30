@@ -6,3 +6,6 @@ May 29th
 
 May 30th
 1. Single-Qubit Gates 
+
+Reference
+https://pennylane.ai/codebook/
