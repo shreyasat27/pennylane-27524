@@ -1,1 +1,1 @@
-# pennylane-27524
+# pennylane project work + study notes 
